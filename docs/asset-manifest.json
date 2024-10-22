@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/blog-with-firebase/static/css/main.cb9200eb.css",
+    "main.js": "/blog-with-firebase/static/js/main.c57cd855.js",
+    "index.html": "/blog-with-firebase/index.html",
+    "main.cb9200eb.css.map": "/blog-with-firebase/static/css/main.cb9200eb.css.map",
+    "main.c57cd855.js.map": "/blog-with-firebase/static/js/main.c57cd855.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cb9200eb.css",
+    "static/js/main.c57cd855.js"
+  ]
+}
